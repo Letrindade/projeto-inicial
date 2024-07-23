@@ -1,4 +1,4 @@
-<h1>Projeto Inicial</h1>
+<h1>Projeto Inicial - GIT</h1>
 
 <h2>�� Sobre</h2>
 <p>Projeto utilizado nos curso de Github da Alura.</p>
